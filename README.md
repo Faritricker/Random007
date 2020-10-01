@@ -10,3 +10,6 @@ COMMAMNDS
 6. cd Random007
 7. ls
 8. python2 Random.py
+
+USERNAME: FARIYA
+PASSWARD: KHAN
