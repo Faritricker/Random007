@@ -9,7 +9,7 @@ COMMAMNDS
 5. git clone https://github.com/Faritricker/Random007
 6. cd Random007
 7. ls
-8. python2 Random.py
+8. python2 Random007.py
 
 USERNAME: FARIYA
 PASSWARD: KHAN
